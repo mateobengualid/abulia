@@ -21,6 +21,8 @@ languages:
 - es
 - en
 
+language_default: es
+
 # Build settings
 markdown: kramdown
 exclude: [vendor]
